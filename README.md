@@ -1,4 +1,4 @@
-# Fake News Detection <br/>
+# Fake News Classifier <br/>
 **Project Overview** <br/>
 Determining the authenticity of news is a complex task, requiring careful consideration of various features. This project focuses on classifying news articles as either fake or real based on a dataset's news content. By employing machine learning techniques, the system aims to accurately categorize news articles.
 
