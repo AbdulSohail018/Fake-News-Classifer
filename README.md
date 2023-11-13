@@ -19,8 +19,8 @@ Determining the authenticity of news is a complex task, requiring careful consid
 **Adjustment:** Fine-tune the model based on the evolving dataset for improved accuracy. <br/>
 
 **Note** <br/>
--> The project utilizes machine learning to make informed decisions about news authenticity.
--> Critical features play a vital role in accurate classification.
--> Regularly updating and retraining the model is recommended for sustained effectiveness.
+-> The project utilizes machine learning to make informed decisions about news authenticity. <br/>
+-> Critical features play a vital role in accurate classification. <br/>
+-> Regularly updating and retraining the model is recommended for sustained effectiveness. <br/>
 
 Feel free to explore and contribute to the development of this Fake News Detection system!
