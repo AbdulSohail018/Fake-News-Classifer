@@ -3,8 +3,8 @@
 Determining the authenticity of news is a complex task, requiring careful consideration of various features. This project focuses on classifying news articles as either fake or real based on a dataset's news content. By employing machine learning techniques, the system aims to accurately categorize news articles.
 
 **Key Features:** <br/>
-**Classification:** Determines whether a given news article is fake or real. <br/>
-**Feature Analysis:** Utilizes various features to make informed classification decisions. <br/>
+**1. Classification:** Determines whether a given news article is fake or real. <br/>
+**2. Feature Analysis:** Utilizes various features to make informed classification decisions. <br/>
 
 **Project Workflow:** <br/>
 **1. Data Collection:** Collects news articles for analysis. <br/>
